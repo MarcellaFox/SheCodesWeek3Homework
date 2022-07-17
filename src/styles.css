@@ -112,3 +112,9 @@ div {
 .text-center {
   text-align: center !important;
 }
+
+@media (max-width: 425px) {
+  .app-thumbnail {
+    margin-top: 15px;
+  }
+}
